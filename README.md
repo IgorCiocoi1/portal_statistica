@@ -21,8 +21,7 @@ portal_statistica/
 ├── views/ # Visual components and templates
 ├── index.php # Entry point of the application
 ├── composer.json # (Optional) Composer configuration
-└── database/
-└── portal_statistica.sql # MySQL database export
+└── database/ portal_statistica.sql # MySQL database export
 
 
 ## Key Features
