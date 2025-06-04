@@ -10,20 +10,6 @@
 - **Machine Learning Models:** Prophet and XGBoost (developed externally in Python)
 - **Architecture:** MVC (Model, View, Controller)
 
-## Project Structure
-
-portal_statistica/
-├── assets/ # Static assets (CSS, JS, images)
-├── controllers/ # Request handling logic per module
-├── core/ # Core framework files (DB connection, routing)
-├── data/ # CSV data files and model outputs
-├── models/ # Database interaction logic
-├── views/ # Visual components and templates
-├── index.php # Entry point of the application
-├── composer.json # (Optional) Composer configuration
-└── database/ portal_statistica.sql # MySQL database export
-
-
 ## Key Features
 
 - Filtering by year, gender, age, location, and education level
