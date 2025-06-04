@@ -35,10 +35,10 @@ Prediction results are exported as `.csv` files and imported into the applicatio
 
 3. Configure the database connection inside `core/Database.php` (or your configuration file):
 
-private $host = "localhost";
-private $db_name = "portal_statistica";
-private $username = "root";
-private $password = "";
+- **private $host** = "localhost";
+- **private $db_name** = "portal_statistica";
+- **private $username** = "root";
+- **private $password** = "";
 
 4. Configure the database connection inside `core/Database.php` (or your configuration file):
 
